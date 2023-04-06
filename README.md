@@ -1,4 +1,5 @@
 # kotlinStudy
+[Kotlin 教程](https://www.runoob.com/kotlin/kotlin-tutorial.html)
 
 ## Hello World
 ```
@@ -17,3 +18,6 @@ kotlinc-jvm
 #执行脚本
 kotlinc -script helloScript.kts ..
 ```
+
+## 基本数据类型
+1. 字符不属于数值类型，是一个独立的数据类型
